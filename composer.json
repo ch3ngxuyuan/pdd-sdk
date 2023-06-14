@@ -22,7 +22,7 @@
   ],
   "require": {
     "php": ">=7.1.3",
-    "wxm/sdk-kernel": "^1.0.0"
+    "ch3ngxuyuan/sdk-kernel": "^2.0.0"
   },
   "autoload": {
     "psr-4": {
