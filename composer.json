@@ -1,5 +1,5 @@
 {
-  "name": "wxm/pdd-sdk",
+  "name": "ch3ngxuyuan/pdd-sdk",
   "type": "library",
   "description": "拼多多 SDK 封装, 调用简单、语义化增强。支持 Laravel/Lumen。",
   "keywords": [
@@ -11,12 +11,12 @@
     "lumen",
     "php"
   ],
-  "homepage": "https://github.com/qq15725/pdd-sdk",
+  "homepage": "https://github.com/ch3ngxuyuan/pdd-sdk",
   "license": "MIT",
   "authors": [
     {
-      "name": "wxm",
-      "email": "157215725@qq.com",
+      "name": "ch3ngxuyuan",
+      "email": "123456@qq.com",
       "role": "Developer"
     }
   ],
